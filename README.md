@@ -1,2 +1,2 @@
-# .github
-Future Protein
+# Future Protein
+
